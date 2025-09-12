@@ -4,6 +4,8 @@
 
 int main(void) {
 
+    // CART  PROGRAM
+
     char item[30] = "";
     float price = 0.0f;
     int quantity = 0;

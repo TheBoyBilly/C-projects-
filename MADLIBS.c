@@ -3,6 +3,8 @@
 
 int main(void) {
 
+    //  MAD   LIBS    GAME
+
     char adjective1[50] = "";
     char adjective2[50] = "";
     char adjective3[50] = "";
